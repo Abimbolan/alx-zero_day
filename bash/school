@@ -1,2 +1,3 @@
 #!/bin/bash
 echo "Update: ALX School is open now!"
+echo "School" 
